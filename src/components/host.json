@@ -1,0 +1,29 @@
+[
+    {"id":1,
+    "name":"RK Prasad",
+    "role":"CEO & Co-Founder",
+    "imageUrl":"https://resources.commlabindia.com/hubfs/webinars/rk-prasad-ai-webinar.jpg",
+    "desc1":"RK has nurtured CommLab India from concept to commercial success, and is responsible for formulating the business strategy. He is also responsible for nurturing customer relationships.",
+    "desc2":"An entrepreneur at heart, RK has 35 years of experience in Sales, Corporate training, University teaching, and eLearning. He regularly conducts seminars and webinars for customers across the world on various topics of technology-enhanced learning.",
+    "desc3":"RK holds a PhD in Mobile Learning from Lancaster University, UK, and an MBA.A good teacher and engaging trainer, RK helps people learn and bloom. His priorities are his employees, his customers, and his community."
+
+},
+{"id":2,
+    "name":"Shalini Merugu",
+    "role":"Director - Learning Solutions",
+    "imageUrl":"https://resources.commlabindia.com/hubfs/cli-main-site/about-us/Shalini.jpg",
+    "desc1":"Shalini is a versatile learning design professional with 16+ years of experience in instructional design (ILT, VILT, and eLearning).",
+    "desc2":"Her experience in designing eLearning solutions along with designing and delivering instructor-led training helps her leverage the strengths of each medium to consistently create impactful training solutions, ensuring that nothing is lost when converting from one format to another.",
+    "desc3":"Apart from improving the quality of learning solutions, she also conducts customer education workshops at customer sites globally and presents webinars on learning design."
+
+},
+{"id":3,
+    "name":"Rajesh Venkata",
+    "role":"Director – Innovation",
+    "imageUrl":"https://resources.commlabindia.com/hubfs/cli-main-site/about-us/rajesh-v4.jpg",
+    "desc1":"Rajesh started his career as a Quality Executive in 2008, and gained expertise in eLearning, digital content delivery, and project management, over these 15+ years.",
+    "desc2":"Rajesh has an excellent track record of team management and operational planning, along with good knowledge of eLearning authoring tools such as Storyline, Captivate, and Lectora.",
+    "desc3":"Well-experienced in managing multiple projects for global clients, Rajesh has a keen eye for trends in the tech-enabled learning space. This made him the natural choice for the current role, where he researches the latest tools and tech, and guides the CommLab India team in leveraging them to address training needs faster, better, and er."
+
+}
+]
